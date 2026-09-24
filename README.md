@@ -24,5 +24,5 @@ Built from scratch in Python with automated parameter experiments, visualization
 
 ## Connect
 
-- LinkedIn
-- ORCID
+- [LinkedIn](https://www.linkedin.com/in/ahmadmrradwan)
+- [ORCID](https://orcid.org/0009-0007-2838-2185)

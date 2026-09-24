@@ -6,7 +6,6 @@ optimization algorithms, and practical machine learning applications.
 ## Currently Building
 
 - ⚖️ UAE Law Assistant — a RAG-based system for retrieving and explaining UAE legislation.
-- 🧬 Genetic Algorithm Task Scheduler — an optimization system for assigning tasks based on skills, workload, and constraints.
 
 ## Currently Exploring
 

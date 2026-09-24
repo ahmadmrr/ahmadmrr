@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ahmad Radwan
 
-<!--
-**ahmadmrr/ahmadmrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Science student interested in building intelligent systems,
+optimization algorithms, and practical machine learning applications.
 
-Here are some ideas to get you started:
+## Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚖️ UAE Law Assistant — a RAG-based system for retrieving and explaining UAE legislation.
+- 🧬 Genetic Algorithm Task Scheduler — an optimization system for assigning tasks based on skills, workload, and constraints.
+
+## Currently Exploring
+
+- Retrieval-Augmented Generation
+- Machine Learning & Optimization
+- Research-oriented software
+- Open-source development
+
+## Featured Projects
+
+### 🧬 Genetic Algorithm Task Scheduler
+A genetic algorithm implementation for constrained employee-task scheduling,
+with configurable experiments and multiple fitness constraints.
+
+## Connect
+
+- LinkedIn
+- ORCID
